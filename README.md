@@ -13,7 +13,7 @@ A modern, client-side image resizing tool built with React and TypeScript. Resiz
 
 ## Live Demo
 
-[Add your deployed demo link here]
+Coming Soon
 
 ## Getting Started
 
