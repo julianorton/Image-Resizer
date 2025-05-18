@@ -1,6 +1,6 @@
 # Image Resizer
 
-A modern, client-side image resizing tool built with React and TypeScript. Resize multiple images to different dimensions in your browser without uploading them anywhere.
+A modern, client-side image resizing tool built with React and TypeScript. Resize multiple images to different dimensions right in your browser.
 
 ## Features
 
